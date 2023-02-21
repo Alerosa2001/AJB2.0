@@ -129,8 +129,8 @@ button:hover span:nth-child(4) {
 }
 
 button:active {
-  background: #ae00af;
-  background: linear-gradient(to top right, #ae00af, #001eff);
+  background: #0066b2;
+  background: linear-gradient(to top right, #77bbef, #0066b2);
   color: #bfbfbf;
   box-shadow: 0 0 8px #0066b2, 0 0 8px #001eff, 0 0 8px #0066b2;
   transition: 0.1s;
@@ -147,7 +147,7 @@ button:active
 
 /* Hero Section Styles */
 .hero {
-  background-image: url(stock2.jpg);
+  background-image: url(assets/stock2.jpg);
   background-size: contain;
   background-position: center;
   color: #ffffff;
@@ -190,8 +190,8 @@ button:active
   margin-bottom: 20px;
 }
 .movie img {
-  width: 200px;
-  height: 300px;
+  width: 215px;
+  height: 400px;
   object-fit: cover;
   border-radius: 5px;
   border-radius: 5px;

@@ -134,8 +134,8 @@ button:hover span:nth-child(4) {
 }
 
 button:active {
-  background: #ae00af;
-  background: linear-gradient(to top right, #ae00af, #001eff);
+  background:#0066b2;
+  background: linear-gradient(to top right, #77bbef, #0066b2);
   color: #bfbfbf;
   box-shadow: 0 0 8px #0066b2, 0 0 8px #001eff, 0 0 8px #0066b2;
   transition: 0.1s;
